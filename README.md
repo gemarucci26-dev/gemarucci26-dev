@@ -6,7 +6,7 @@
 
 Estou no início da minha jornada no desenvolvimento de software, aprendendo e construindo projetos com foco em **front end** e boas práticas de programação.
 
---- 
+---
 
 ## 🌐 Onde me encontrar
 
@@ -16,6 +16,9 @@ Estou no início da minha jornada no desenvolvimento de software, aprendendo e c
   </a>
   <a href="https://instagram.com/ge.marucci">
     <img src="https://img.shields.io/badge/Instagram-@ge.marucci-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/geovane-marucci-2814b5363/">
+    <img src="https://img.shields.io/badge/LinkedIn-Geovane%20Marucci-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
