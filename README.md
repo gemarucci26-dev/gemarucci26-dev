@@ -20,6 +20,9 @@ Estou no início da minha jornada no desenvolvimento de software, aprendendo e c
   <a href="https://www.linkedin.com/in/geovane-marucci-2814b5363/">
     <img src="https://img.shields.io/badge/LinkedIn-Geovane%20Marucci-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://wa.me/5519997363560">
+    <img src="https://img.shields.io/badge/WhatsApp-(19)%2099736--3560-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
 ---
