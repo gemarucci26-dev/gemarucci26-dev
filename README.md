@@ -31,6 +31,7 @@ Estou no início da minha jornada no desenvolvimento de software, aprendendo e c
 - 🔷 Programação orientada a objetos com **C#**
 - 📐 Boas práticas de código limpo e organização de projetos
 - 🚀 Construção de páginas web responsivas e acessíveis
+- 🔌 Integração de **APIs** e automações com **Low Code**
 
 ---
 
@@ -45,6 +46,17 @@ Estou no início da minha jornada no desenvolvimento de software, aprendendo e c
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+
+### ⚙️ Low Code & Automação
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![API REST](https://img.shields.io/badge/API%20REST-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🗄️ Banco de Dados & Backend
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
