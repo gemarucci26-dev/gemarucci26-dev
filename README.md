@@ -1,1 +1,71 @@
-## Olá pessoal
+# Olá 👋, eu sou Geovane Marucci
+
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas — 2° Semestre**
+💻 **Desenvolvedor Front End Júnior**
+🇧🇷 Brasil
+
+Estou no início da minha jornada no desenvolvimento de software, aprendendo e construindo projetos com foco em **front end** e boas práticas de programação.
+
+---
+
+## 🌐 Onde me encontrar
+
+<p align="left">
+  <a href="https://github.com/herbertcarnaubadesouza">
+    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/oreidosites">
+    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@oreidosites">
+    <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
+  </a>
+  <a href="https://www.youtube.com/@oreidosites">
+    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧠 O que estou aprendendo
+
+- 🎨 Desenvolvimento de interfaces com **HTML & CSS**
+- ☕ Lógica de programação e orientação a objetos com **Java**
+- 🔷 Programação orientada a objetos com **C#**
+- 📐 Boas práticas de código limpo e organização de projetos
+- 🚀 Construção de páginas web responsivas e acessíveis
+
+---
+
+## 🛠️ Tecnologias que domino
+
+### Front End
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Linguagens de Programação
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true&locale=pt-br" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight&locale=pt-br" />
+</p>
+
+---
+
+## 🚀 Minha Filosofia
+
+> _"Todo grande desenvolvedor já foi um iniciante.  
+> O diferencial está em nunca parar de aprender."_
+
+---
+
+⭐ Se você curtiu algum projeto, deixe uma estrela!
+🤝 Aberto a conexões, dicas e colaborações
