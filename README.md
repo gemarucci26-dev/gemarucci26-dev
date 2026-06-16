@@ -61,6 +61,11 @@ Estou no início da minha jornada no desenvolvimento de software, aprendendo e c
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
+### 🐳 DevOps & Infraestrutura
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-Linux%20Server-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ---
 
 ## 📊 Estatísticas do GitHub
