@@ -1,4 +1,4 @@
-# Olá 👋, eu sou Geovane Marucci
+# Olá 👋, eu sou Ge Marucci
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas — 2° Semestre**
 💻 **Desenvolvedor Front End Júnior**
@@ -6,22 +6,16 @@
 
 Estou no início da minha jornada no desenvolvimento de software, aprendendo e construindo projetos com foco em **front end** e boas práticas de programação.
 
----
+--- 
 
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
-    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/gemarucci26-dev">
+    <img src="https://img.shields.io/badge/GitHub-GEMARUCCI26--DEV-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/oreidosites">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.tiktok.com/@oreidosites">
-    <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
-  </a>
-  <a href="https://www.youtube.com/@oreidosites">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://instagram.com/ge.marucci">
+    <img src="https://img.shields.io/badge/Instagram-@ge.marucci-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -54,8 +48,8 @@ Estou no início da minha jornada no desenvolvimento de software, aprendendo e c
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true&locale=pt-br" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight&locale=pt-br" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gemarucci26-dev&show_icons=true&theme=tokyonight&count_private=true&locale=pt-br" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemarucci26-dev&layout=compact&theme=tokyonight&locale=pt-br" />
 </p>
 
 ---
