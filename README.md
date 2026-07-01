@@ -37,13 +37,10 @@ Desenvolvedor Full Stack focado em entregar soluções completas, escaláveis e 
 
 ## 🛠️ Tecnologias que domino
 
-### Front End
+### 💻 Full Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### Linguagens de Programação
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -55,7 +52,7 @@ Desenvolvedor Full Stack focado em entregar soluções completas, escaláveis e 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![API REST](https://img.shields.io/badge/API%20REST-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🗄️ Banco de Dados & Backend
+### 🗄️ Banco de Dados
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
