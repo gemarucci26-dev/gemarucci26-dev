@@ -69,8 +69,10 @@ Desenvolvedor Full Stack focado em entregar soluções completas, escaláveis e 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gemarucci26-dev&show_icons=true&theme=tokyonight&locale=pt-br" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemarucci26-dev&layout=compact&theme=tokyonight&locale=pt-br" />
+  <table><tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=gemarucci26-dev&show_icons=true&theme=tokyonight" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemarucci26-dev&layout=compact&theme=tokyonight" /></td>
+  </tr></table>
 </p>
 
 ---
