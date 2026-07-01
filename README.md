@@ -4,7 +4,7 @@
 💻 **Desenvolvedor Full Stack**
 🇧🇷 Brasil
 
-Estou no início da minha jornada no desenvolvimento de software, aprendendo e construindo projetos com foco em **front end** e boas práticas de programação.
+Desenvolvedor Full Stack focado em entregar soluções completas, escaláveis e com boas práticas.
 
 ---
 
