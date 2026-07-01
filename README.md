@@ -1,7 +1,7 @@
 # Olá 👋, eu sou Ge Marucci
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas — 2° Semestre**
-💻 **Desenvolvedor Front End Júnior**
+💻 **Desenvolvedor Full Stack**
 🇧🇷 Brasil
 
 Estou no início da minha jornada no desenvolvimento de software, aprendendo e construindo projetos com foco em **front end** e boas práticas de programação.
@@ -27,14 +27,11 @@ Estou no início da minha jornada no desenvolvimento de software, aprendendo e c
 
 ---
 
-## 🧠 O que estou aprendendo
+## 🎯 Objetivos / Metas
 
-- 🎨 Desenvolvimento de interfaces com **HTML & CSS**
-- ☕ Lógica de programação e orientação a objetos com **Java**
-- 🔷 Programação orientada a objetos com **C#**
-- 📐 Boas práticas de código limpo e organização de projetos
-- 🚀 Construção de páginas web responsivas e acessíveis
-- 🔌 Integração de **APIs** e automações com **Low Code**
+- 🚀 Entrar no mercado de trabalho e atuar como desenvolvedor Full Stack
+- 💡 Empreender e criar soluções próprias (SaaS / Produtos digitais)
+- 🤝 Contribuir com projetos **Open Source** e colaborar com a comunidade dev
 
 ---
 
@@ -42,13 +39,16 @@ Estou no início da minha jornada no desenvolvimento de software, aprendendo e c
 
 ### Front End
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Linguagens de Programação
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### ⚙️ Low Code & Automação
 
@@ -64,6 +64,7 @@ Estou no início da minha jornada no desenvolvimento de software, aprendendo e c
 ### 🐳 DevOps & Infraestrutura
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VPS](https://img.shields.io/badge/VPS-Linux%20Server-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
