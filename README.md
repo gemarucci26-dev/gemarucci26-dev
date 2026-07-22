@@ -1,4 +1,4 @@
-# Olá 👋, eu sou Ge Marucci
+# Olá 👋, eu sou Geovane Marucci
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas — 2° Semestre**
 💻 **Desenvolvedor Full Stack**
